@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://www.google.com.sg/url?sa=i&url=https%3A%2F%2Ffandomwire.com%2Fone-piece-real-reason-why-kizaru-was-truly-scared-of-benn-beckman-is-a-broken-ability-that-can-take-down-gear-5-luffy%2F&psig=AOvVaw2tbrzH7tNmnwzfvXktMSgk&ust=1745904127622000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDg9fD9-YwDFQAAAAAdAAAAABAE" alt="Coding Gif" width="400" />
+  <img src="https://images.app.goo.gl/7Lc75RVbnj1hPsua6" alt="Coding Gif" width="400" />
 </p>
 
 ---
