@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://images.app.goo.gl/7Lc75RVbnj1hPsua6" alt="Coding Gif" width="400" />
+  <img src="https://images8.alphacoders.com/934/934095.jpg" alt="Shanks and Benn Beckman" width="400" />
 </p>
 
 ---
