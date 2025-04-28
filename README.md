@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/onepiece/images/7/7d/Beckman_and_Shanks.png" alt="Shanks and Benn Beckman" width="400" />
+  <img src="https://wallpaperaccess.com/full/9052530.jpg" alt="Shanks and Benn Beckman" width="400" />
 </p>
 
 ---
