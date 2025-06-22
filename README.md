@@ -12,7 +12,7 @@
 - 📈 I utilize **R programming** for statistical analysis and data science projects.  
 - 🚀 I am passionate about **DevOps** — automating workflows, setting up CI/CD pipelines, and cloud deployments.  
 - 💬 Feel free to reach out to me about **Fullstack Development**, **Microservices Architecture**, **Cloud Solutions**, and **Data Insights**.  
-- 📫 How to reach me: **rakshith.ignatius@example.com**  
+- 📫 How to reach me: **rakshithignatius@gmail.com**  
 - 🛠️ I enjoy learning **new technologies** and contributing to **open-source** communities.
 
 ---
