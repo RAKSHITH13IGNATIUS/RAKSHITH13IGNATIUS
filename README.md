@@ -38,11 +38,14 @@
 </p>
 
 ---
-
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Backup" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Fallback" />
+</p> 
+
 
 <!-- If the above doesn't work, use this backup (uncomment if needed)
 <p align="center">
