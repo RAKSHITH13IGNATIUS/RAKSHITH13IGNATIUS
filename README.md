@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -33,17 +33,43 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithignatius&show_icons=true&theme=radical" alt="Rakshith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🚀 Let's Connect!
+### 🚀 More Dynamic GitHub Info
+
+#### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+#### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+#### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RAKSHITH13IGNATIUS&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 📊 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshithignatius/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
   </a>
-  <a href="mailto:rakshith.ignatius@example.com" target="blank">
+  <a href="mailto:rakshithignatius@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="40" width="40" />
   </a>
 </p>
