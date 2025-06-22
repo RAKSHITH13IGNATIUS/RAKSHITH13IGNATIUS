@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshith Ignatius</h1>
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
-<!-- Optional animated image (replace the URL below with your own GIF if desired) -->
+<!-- 🔄 Optional animated image (replace with your custom gif link if desired) -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Rakshith Avatar" width="300" />
 </p>
@@ -41,8 +41,14 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
+<!-- If the above doesn't work, use this backup (uncomment if needed)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Backup" />
+</p>
+-->
 
 ---
 
