@@ -41,7 +41,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Backup" />
 </p>
 
 <!-- If the above doesn't work, use this backup (uncomment if needed)
