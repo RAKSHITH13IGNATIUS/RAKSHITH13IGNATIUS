@@ -2,18 +2,18 @@
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG81OWY5Yjc4a3c3MjJrZTBzZnNtN3E5Yjh6OTQ1OWVtZW5zNG9xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="300" />
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="300" />
 </p>
 
 ---
 
 🌟 **About Me**  
-- 🔭 I’m currently working on **full-stack projects** specializing in **TypeScript/TSX** and **JavaScript**.  
-- 📈 I utilize **R programming** for statistical analysis and data science projects.  
-- 🚀 Passionate about **DevOps** — automating workflows, CI/CD pipelines, and cloud deployments.  
-- 💬 Reach out about **Fullstack Development**, **Microservices**, **Cloud Solutions**, or **Data Insights**.  
-- 📫 Contact: **rakshithignatius@gmail.com**  
-- 🛠️ Lifelong learner and open-source contributor.
+- 🔭 Working on **TypeScript/TSX** + **JavaScript** fullstack projects  
+- 📈 Using **R** for data science + statistical modeling  
+- 🚀 Building CI/CD pipelines & cloud infra with **DevOps practices**  
+- 💬 Ask me about: **Fullstack**, **Cloud**, **Data**, **DevOps**  
+- 📫 Reach me: **rakshithignatius@gmail.com**  
+- 🛠️ Open-source lover & tech explorer
 
 ---
 
@@ -33,28 +33,28 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 ---
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=github-compact&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 
 ---
