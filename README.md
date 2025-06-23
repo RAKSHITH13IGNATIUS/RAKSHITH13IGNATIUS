@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Rakshith Ignatius</h1>
-<h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
+<h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt=" i work to be like it !" width="280" />
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="280" />
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔧 Fullstack developer working primarily with **TypeScript**, **JavaScript**, and **React/Node.js**
-- 📊 Data science enthusiast with a passion for **R** and statistical modeling
-- 🚀 Practicing **DevOps** — building CI/CD pipelines and managing cloud infrastructure
-- 💬 Ask me about **web development**, **cloud-native solutions**, **data workflows**, and **open source**
-- 📬 Reach me at: [rakshithignatius@gmail.com](mailto:rakshithignatius@gmail.com)
+
+- 🔧 Fullstack developer working with **TypeScript**, **React**, and **Node.js**
+- 📊 Passionate about **data science** and **statistical modeling** using **R**
+- 🚀 DevOps practitioner: automating CI/CD & building cloud-native infra
+- 💬 I love talking about **web development**, **cloud**, **data**, and **DevOps**
+- 📫 Reach me: [rakshithignatius@gmail.com](mailto:rakshithignatius@gmail.com)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technologies & Tools
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
@@ -30,35 +32,40 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&show_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧠 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 👁️‍🗨️ Visitor Count
+## 👁️ Visitor Count
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
@@ -66,6 +73,7 @@
 ---
 
 ## 🚀 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshithignatius/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
