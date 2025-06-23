@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="280" />
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt=" i work to be like it !" width="280" />
 </p>
 
 ---
