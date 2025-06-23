@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakshith Ignatius</h1>
 <h3 align="center">Fullstack Developer | R Enthusiast | DevOps Practitioner</h3>
 
-<!-- 🔄 Optional animated image (replace with your custom gif link if desired) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Rakshith Avatar" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG81OWY5Yjc4a3c3MjJrZTBzZnNtN3E5Yjh6OTQ1OWVtZW5zNG9xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="300" />
 </p>
 
 ---
@@ -11,14 +10,14 @@
 🌟 **About Me**  
 - 🔭 I’m currently working on **full-stack projects** specializing in **TypeScript/TSX** and **JavaScript**.  
 - 📈 I utilize **R programming** for statistical analysis and data science projects.  
-- 🚀 I am passionate about **DevOps** — automating workflows, setting up CI/CD pipelines, and cloud deployments.  
-- 💬 Feel free to reach out to me about **Fullstack Development**, **Microservices Architecture**, **Cloud Solutions**, and **Data Insights**.  
-- 📫 How to reach me: **rakshithignatius@gmail.com**  
-- 🛠️ I enjoy learning **new technologies** and contributing to **open-source** communities.
+- 🚀 Passionate about **DevOps** — automating workflows, CI/CD pipelines, and cloud deployments.  
+- 💬 Reach out about **Fullstack Development**, **Microservices**, **Cloud Solutions**, or **Data Insights**.  
+- 📫 Contact: **rakshithignatius@gmail.com**  
+- 🛠️ Lifelong learner and open-source contributor.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
@@ -34,37 +33,28 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
+
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Fallback" />
-</p> 
-
-
-<!-- If the above doesn't work, use this backup (uncomment if needed)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAKSHITH13IGNATIUS&theme=radical&hide_border=false" alt="GitHub Streak Stats Backup" />
-</p>
--->
 
 ---
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=github-compact&hide_border=false" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -78,10 +68,10 @@
 
 ### 🚀 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakshithignatius/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/rakshithignatius/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
   </a>
-  <a href="mailto:rakshithignatius@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" height="40" width="40" />
+  <a href="mailto:rakshithignatius@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" height="40" width="40" />
   </a>
 </p>
