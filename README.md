@@ -41,11 +41,12 @@
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&fire=FF6400&ring=4ABDAC&currStreakLabel=FF6400&sideNums=FFFFFF&rand=<?=Math.random()?>" alt="GitHub Streak" />
+  <img 
+    src="https://yourdomain.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=false&cache_seconds=3600&rand=42" 
+    alt="GitHub Streak" 
+    width="495" />
 </p>
-
 ---
 
 ## 🧠 Top Languages
