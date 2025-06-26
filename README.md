@@ -32,10 +32,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&show_border=true" alt="GitHub Streak" />
 </p>
 
 ---
