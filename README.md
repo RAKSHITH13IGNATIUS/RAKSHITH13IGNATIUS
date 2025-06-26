@@ -40,14 +40,7 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://yourdomain.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=false&cache_seconds=3600&rand=42" 
-    alt="GitHub Streak" 
-    width="495" />
-</p>
----
+
 
 ## 🧠 Top Languages
 
