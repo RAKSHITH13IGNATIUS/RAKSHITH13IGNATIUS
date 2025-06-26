@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAKSHITH13IGNATIUS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&show_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&fire=FF6400&ring=4ABDAC&currStreakLabel=FF6400&sideNums=FFFFFF&rand=<?=Math.random()?>" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false&area=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
 ---
