@@ -25,23 +25,22 @@
 
 ---
 
-## 🎮 GitHub Contribution Game (Easter Egg)
+## 🐍 GitHub Contribution Snake
 
-> 💡 Move with arrow keys. Eat the commits 🍒  
-> This turns your contribution graph into a playable **Pac-Man game**.
+> 🐍 Watch the snake eat your commits in real time!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-🔗 Add your own by setting this in your repo: [GitHub Snake Game](https://github.com/Platane/snk)
+🔗 Want your own? Check out: [Platane/snk](https://github.com/Platane/snk)
 
 ---
 
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true" alt="streak-stats" />
 </p>
 
 ---
@@ -53,7 +52,6 @@
 </p>
 
 ---
-![Snake animation](https://github.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Activity Graph
 
