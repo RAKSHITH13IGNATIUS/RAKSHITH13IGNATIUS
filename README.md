@@ -53,6 +53,7 @@
 </p>
 
 ---
+![Snake animation](https://github.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/blob/output/github-contribution-grid-snake.svg)
 
 ## 📈 GitHub Activity Graph
 
