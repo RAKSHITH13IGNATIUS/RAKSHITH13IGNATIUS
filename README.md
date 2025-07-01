@@ -2,78 +2,82 @@
 <h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="Rakshith Avatar" width="280" />
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="200"/>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 🔧 Fullstack developer working with **TypeScript**, **React**, and **Node.js**
-- 📊 Passionate about **data science** and **statistical modeling** using **R**
-- 🚀 DevOps practitioner: automating CI/CD & building cloud-native infra
-- 💬 I love talking about **web development**, **cloud**, **data**, and **DevOps**
-- 📫 Reach me: [rakshithignatius@gmail.com](mailto:rakshithignatius@gmail.com)
+- 🔧 Fullstack developer using **TypeScript**, **React**, **Node.js**
+- 📊 Passionate about **data science**, **R**, and **statistics**
+- ☁️ DevOps fan: CI/CD, Kubernetes, Docker, Terraform
+- 🧠 I love open source and cloud-native tools
+- 📫 Contact me: [rakshithignatius@gmail.com](mailto:rakshithignatius@gmail.com)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,python,r,docker,kubernetes,aws,git,github,postgres,mongodb,linux,vscode,flutter,figma,cpp,cs,latex,html,tailwind,androidstudio,arduino,nginx,blender" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎮 GitHub Contribution Game (Easter Egg)
+
+> 💡 Move with arrow keys. Eat the commits 🍒  
+> This turns your contribution graph into a playable **Pac-Man game**.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=RAKSHITH13IGNATIUS&theme=tokyonight&show_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/output/github-contribution-grid-snake.svg" />
 </p>
+
+🔗 Add your own by setting this in your repo: [GitHub Snake Game](https://github.com/Platane/snk)
 
 ---
 
+## 🔥 GitHub Streak Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=false&area=true&custom_title=My%20GitHub%20Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
 
-## 👁️ Visitor Count
+## 🧩 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshithignatius/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   &nbsp;
-  <a href="mailto:rakshithignatius@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" />
+  <a href="mailto:rakshithignatius@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
 </p>
