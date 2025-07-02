@@ -14,7 +14,7 @@ You said:
 - 📊 Passionate about **data science**, **R**, and **statistics**
 - ☁️ DevOps fan: CI/CD, Kubernetes, Docker, Terraform
 - 🧠 I love open source and cloud-native tools
-- 📫 Contact me: [rakshithignatius@gmail.com](mailto:rakshithignatius@gmail.com)
+
 
 ---
 
