@@ -25,9 +25,9 @@
 
 ---
 
-## 🕹️ Retro Commit Quest
+## 🕹️ Retro Commit 
 
-> 🍒 Help the player collect commits through a maze of code. Watch out for bugs! 👾
+ Watch out for bugs! 👾
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/snk/output/github-contribution-grid-snake.svg" alt="Retro Commit Game" />
