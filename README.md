@@ -17,6 +17,14 @@
 
 ---
 
+## 🏆 Developer Trophy Shelf
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH13IGNATIUS&theme=tokyonight&no-frame=true&column=6" />
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -25,13 +33,12 @@
 
 ---
 
-## 🕹️ Retro Commit 
+## 🕹️ Retro Commit
 
- Watch out for bugs! 👾
+> Watch out for bugs! 👾
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/snk/output/github-contribution-grid-snake.svg" alt="Retro Commit Game" />
-
 </p>
 
 <!-- 🎮 Hidden Easter Egg: The player follows the path of your commits. Built with Platane/snk -->
@@ -70,6 +77,16 @@
 
 ---
 
+## 🎮 Secret Game Room (Easter Egg)
+
+<p align="center">
+  <a href="https://RAKSHITH13IGNATIUS.github.io/easter-egg/" target="_blank" title="Click for surprise 👾">
+    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="80" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -81,3 +98,9 @@
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
 </p>
+
+---
+
+## 💬 Dev Motto
+
+> **“Build. Break. Learn. Repeat.”** — That’s how I grow 💡
