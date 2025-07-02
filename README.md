@@ -30,17 +30,17 @@
 > 🍒 Help the player collect commits through a maze of code. Watch out for bugs! 👾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/output/snake-track.svg" alt="Retro Commit Game" />
+  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/output/github-contribution-grid-snake.svg" alt="Retro Commit Game" />
 </p>
 
-<!-- 🎮 Hidden Easter Egg: Try to decode the path. Made with Platane/snk + custom maze style -->
+<!-- 🎮 Hidden Easter Egg: The player follows the path of your commits. Built with Platane/snk -->
 
 ---
 
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=highcontrast&hide_border=true&border_radius=10&mode=weekly" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
 
 ---
