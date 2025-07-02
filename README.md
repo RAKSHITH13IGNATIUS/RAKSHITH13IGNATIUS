@@ -3,7 +3,7 @@ You said:
 <h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="500"/>
 </p>
 
 ---
