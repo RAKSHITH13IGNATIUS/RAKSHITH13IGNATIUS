@@ -69,24 +69,6 @@
 
 ---
 
-## 🧩 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🎮 Secret Game Room (Easter Egg)
-
-<p align="center">
-  <a href="https://RAKSHITH13IGNATIUS.github.io/easter-egg/" target="_blank" title="Click for surprise 👾">
-    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="80" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -100,6 +82,11 @@
 </p>
 
 ---
+## 🧩 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 💬 Dev Motto
 
