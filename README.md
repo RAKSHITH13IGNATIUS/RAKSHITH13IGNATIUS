@@ -17,7 +17,7 @@
 
 ---
 
-## 🏆 Developer Trophy Shelf
+## 🏆 Developer Trophy Shelf 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH13IGNATIUS&theme=tokyonight&no-frame=true&column=6" />
