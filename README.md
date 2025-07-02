@@ -10,7 +10,7 @@ You said:
 
 ## 🚀 About Me
 
-- 🔧 Fullstack developer using **TypeScript**, **React**, **Node.js**
+- 🔧 Fullstack developer using **TypeScript**, **React**, **Node.js** 
 - 📊 Passionate about **data science**, **R**, and **statistics**
 - ☁️ DevOps fan: CI/CD, Kubernetes, Docker, Terraform
 - 🧠 I love open source and cloud-native tools
@@ -22,14 +22,6 @@ You said:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH13IGNATIUS&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,python,r,docker,kubernetes,aws,git,github,postgres,mongodb,linux,vscode,flutter,figma,cpp,cs,latex,html,tailwind,androidstudio,arduino,nginx,blender" />
 </p>
 
 ---
