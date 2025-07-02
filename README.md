@@ -37,12 +37,11 @@ You said:
 <!-- 🎮 Hidden Easter Egg: The player follows the path of your commits. Built with Platane/snk -->
 
 ---
-
 ## 🔥 GitHub Streak Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
+
 
 ---
 
