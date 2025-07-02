@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="200" alt="Coding gif" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ## 🏆 Developer Trophy Shelf 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH13IGNATIUS&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH13IGNATIUS&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,python,r,docker,kubernetes,aws,git,github,postgres,mongodb,linux,vscode,flutter,figma,cpp,cs,latex,html,tailwind,androidstudio,arduino,nginx,blender" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,java,python,r,docker,kubernetes,aws,git,github,postgres,mongodb,linux,vscode,flutter,figma,cpp,cs,latex,html,tailwind,androidstudio,arduino,nginx,blender" alt="Skills" />
 </p>
 
 ---
@@ -38,17 +38,17 @@
 > Watch out for bugs! 👾
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/snk/output/github-contribution-grid-snake.svg" alt="Retro Commit Game" />
+  <img src="https://raw.githubusercontent.com/RAKSHITH13IGNATIUS/RAKSHITH13IGNATIUS/output/github-contribution-grid-snake.svg" alt="Snake animation of commits" />
 </p>
 
-<!-- 🎮 Hidden Easter Egg: The player follows the path of your commits. Built with Platane/snk -->
+<!-- Built using Platane/snk -->
 
 ---
 
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=RAKSHITH13IGNATIUS&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAKSHITH13IGNATIUS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAKSHITH13IGNATIUS&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
@@ -73,20 +73,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshithignatius/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:rakshithignatius@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Gmail" />
   </a>
 </p>
 
 ---
+
 ## 🧩 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=RAKSHITH13IGNATIUS&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor counter" />
 </p>
+
+---
 
 ## 💬 Dev Motto
 
