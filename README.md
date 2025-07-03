@@ -1,4 +1,4 @@
-You said:
+
 <h1 align="center">Hi 👋, I'm Rakshith Ignatius</h1>
 <h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
