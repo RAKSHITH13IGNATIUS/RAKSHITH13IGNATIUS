@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rakshith Ignatius</h1>
+<h1 align="center">Hi 👋, Rakshith Ignatius here </h1>
 <h3 align="center">Fullstack Developer · R Enthusiast · DevOps Practitioner</h3>
 
 <p align="center">
@@ -70,7 +70,7 @@
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" />
   </a>
 </p>
-
+  
 ---
 ## 🧩 Visitor Count
 
